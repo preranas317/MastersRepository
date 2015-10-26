@@ -1,0 +1,10 @@
+# See all CS undergraduate courses at
+# http://web.calstatela.edu/academic/ecst/cs/courses.php
+
+CS120,Introduction to Web Site Development
+CS122,Using Relational Databases and SQL
+CS201,Introduction to Programming
+CS202,Introduction to Object Oriented Programming,CS201
+CS203,Programming with Data Structures,CS202
+CS320,Web and Internet Programming,CS120 CS122 CS203
+
