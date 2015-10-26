@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: ttt.model.dao.UserDaoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.701 sec <<< FAILURE!
+getGamesAgainstAI(ttt.model.dao.UserDaoTest)  Time elapsed: 0.259 sec  <<< FAILURE!
+java.lang.AssertionError
+	at ttt.model.dao.UserDaoTest.getGamesAgainstAI(UserDaoTest.java:23)
